@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<h3>Esta organização foi criada para armazenar e organizar projetos, atividades e materiais do curso de Engenharia de Software (período noturno) da Católica SC.</h3>
+
 <p aling="center">
     <img src="Engenharia de Software.png" alt="#">
 </p>
