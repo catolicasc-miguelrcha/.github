@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+<p aling="center">
+    <img src="Engenharia de Software.png" alt="#">
+</p>
+
 <!--
 
 **Here are some ideas to get you started:**
