@@ -14,6 +14,10 @@ nome-da-materia
 ├──README.md
 ```
 
+## Licença
+
+Este projeto é distribuído sob a Licença MIT, permitindo uso, modificação e distribuição com poucas restrições.
+
 <p aling="center">
     <img src="Engenharia de Software.png" alt="#">
 </p>
